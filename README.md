@@ -73,8 +73,12 @@ All models run efficiently in seconds using the **CBC solver** in PuLP.
 
 >  You can add your result figures here:
 > 
-> ![Model 1 Allocation](results/model1_allocation.png)  
-> ![Model 2 Time Maximization](results/model2_operational_time.png)
+>![Model 1 - Optimal Initial Bikes](results/opti_initial_bikes_monthly.png)
+
+>![Model 2 - Maximize Operational Time](results/ititial_bike_Maximizing_operational_time.png)
+
+>![Model 3 - Balanced Allocation](results/initbike_max_oper_time_with_balaced_alloc.png)
+
 
 ---
 
