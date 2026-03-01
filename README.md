@@ -71,7 +71,6 @@ Each model balances trade-offs between **fairness**, **operational longevity**, 
 
 All models run efficiently in seconds using the **CBC solver** in PuLP.
 
->  You can add your result figures here:
 > 
 >![Model 1 - Optimal Initial Bikes](results/opti_initial_bikes_monthly.png)
 
